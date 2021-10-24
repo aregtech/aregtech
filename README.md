@@ -9,7 +9,7 @@ I'm not ready yet to create this readme. Just making some experiments with the b
   </tr>
   <tr>
     <td><strong>Since 20 Oct. 2021<strong></strong></td>
-    <td><img src="https://gpvc.arturio.dev/aregtech" alt="Viewers"/> &nbsp; <img src="https://img.shields.io/github/downloads/aregtech/areg-sdk/total.svg"/></td>
+    <td><img src="https://gpvc.arturio.dev/aregtech" alt="Viewers"/> &nbsp; <!-- img src="https://img.shields.io/github/downloads/aregtech/areg-sdk/total.svg"/ --></td>
   </tr>
 </table>
 
