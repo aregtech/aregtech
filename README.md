@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm not ready yet to create this readme. Just making some experiments with the badges. Not sure that they will all work :)
+I'm not ready yet to create this readme. Just making some experiments with some badges :)
 
 <table>
   <tr>
