@@ -1,6 +1,18 @@
 ### Hi there 👋
 
-I'm not ready yet to create this readme. Just making some experiments with some badges :)
+If very short about me:
+- 👩‍💻 I'm in SW development so long that makes no sense to write years.
+- 🎯 Mainly developing in C/C++, which I love.
+- 👀 Interested in robotics, embedded, IoT edge applications, and many other technologies.
+
+Most of free time i spend to develop [AREG SDK](https://github.com/aregtech/areg-sdk) 🚀, which i create with 💖. 
+Try it and ⭐ it, even if you didn't like it 😜.
+
+C/C++ developers are welcomed to join to develop [AREG engine](https://github.com/aregtech/areg-sdk) firther.
+C# developers are welcomed to join cross-platform [AREG SDK GUI tool](https://github.com/aregtech/areg-sdk-tools) development.
+I hope what I started to do is helpful for developers and businesses. I have a clear view how AREG SDK should work and what tools should have.
+
+Have fun!
 
 <table>
   <tr>
