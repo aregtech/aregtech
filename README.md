@@ -1,15 +1,15 @@
 ### Hello and welcome! 👋
 
-Thank you for visiting my profile. I would like to provide you with some brief information about myself:
-- 👨‍💻 I am a senior developer and entrepreneur with a specialization in C/C++ programming, and I have a great passion for it.
+Some brief information about myself:
+- 👨‍💻 I am a developer and entrepreneur with a passion for C/C++. As well develop with C# and Java.
 - 👀 My interests lie in exploring and experimenting with technologies in robotics, embedded systems, and IoT edge.
-- 🚀 During my free time, I have devoted myself to developing the open source [AREG SDK](https://github.com/aregtech/areg-sdk) with great enthusiasm.
+- 🚀 In my free time, I have devoted myself to developing the open source [AREG SDK](https://github.com/aregtech/areg-sdk) with enthusiasm.
 
-The AREG SDK is an innovative development platform designed to equip developers with a lightweight and intelligent communication engine, and comprehensive set of tools to construct complex interactive systems at the edge of IoT networks. As a regular speaker at conferences, I have had the opportunity to present the ideas and demonstrate the range of capabilities that AREG SDK can offer. You can download the [AREG IoT SDK whitepaper](https://github.com/aregtech/aregtech/blob/main/docs/areg-sdk-distributed-services-whitepaper.pdf), which focuses on IoT edge-centric solutions and distributed solutions for embedded applications. The whitepaper was prepared for the [embedded world Exhibition&Conference](https://www.embedded-world.de/) global platform for the embedded community. I am confident that the AREG SDK will be a valuable solution for developers and businesses.
+The AREG SDK is an innovative development platform equipped with a lightweight and intelligent communication engine, and comprehensive set of tools to build complex interactive systems at the edge of IoT networks. As a regular conference speaker, I have showcased the capabilities of AREG SDK. Check out the [AREG IoT SDK whitepaper](https://github.com/aregtech/aregtech/blob/main/docs/areg-sdk-distributed-services-whitepaper.pdf), which focuses on IoT edge-centric and distributed solutions for embedded applications, prepared for the [embedded world Exhibition&Conference](https://www.embedded-world.de/) global platform for the embedded community. I am confident that the AREG SDK will be a valuable solution for developers and businesses.
 
-I welcome C/C++ developers to join me in further developing the [AREG engine](https://github.com/aregtech/areg-sdk). I also invite C# developers to contribute to the cross-platform [AREG SDK GUI tool](https://github.com/aregtech/areg-sdk-tools) development. AREG SDK is a project that I have poured my heart into. Try it out and leave a rating ⭐, even if it doesn't meet your expectations 😜.
+I welcome **C/C++ developers** to join in further development of the [AREG engine](https://github.com/aregtech/areg-sdk). I also invite **C# developers** to contribute to the cross-platform [AREG SDK GUI tool](https://github.com/aregtech/areg-sdk-tools) development.
 
-Let's have fun developing open source!
+AREG SDK is a project that I have poured my heart into. Try it out and leave a rating ⭐, even if it doesn't meet your expectations 😜. Let's have fun developing open source!
 
 ---
 
