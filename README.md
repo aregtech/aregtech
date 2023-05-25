@@ -9,7 +9,7 @@ The AREG SDK is an innovative development platform equipped with a lightweight a
 
 I welcome **C/C++ developers** to join in further development of the [AREG engine](https://github.com/aregtech/areg-sdk). I also invite **C# developers** to contribute to the cross-platform [AREG SDK GUI tool](https://github.com/aregtech/areg-sdk-tools) development.
 
-AREG SDK is a project that I have poured my heart into. Try it out and leave a rating ⭐, even if it doesn't meet your expectations 😜. Let's have fun developing open source!
+AREG SDK is a project that I have poured my heart into. Try it out and please leave a rating ⭐
 
 ---
 
