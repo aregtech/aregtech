@@ -21,4 +21,4 @@ AREG SDK is a project that I have poured my heart into. Try it out and please le
 </table>
 <img src="https://gpvc.arturio.dev/aregtech" alt="Viewers"/> &nbsp; <!-- img src="https://img.shields.io/github/downloads/aregtech/areg-sdk/total.svg"/ -->
 
-![Repo status](https://github-readme-stats.vercel.app/api?username=aregtech&theme=blue-green)
+![Repo status](https://github-readme-stats-one-bice.vercel.app/api?username=aregtech&theme=blue-green&show_icons=true)
