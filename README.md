@@ -7,7 +7,7 @@ Some brief information about myself:
 
 The AREG SDK is an innovative development platform equipped with a lightweight and intelligent communication engine, and comprehensive set of tools to build complex interactive systems at the edge of IoT networks. As a regular conference speaker, I have showcased the capabilities of AREG SDK. Check out the [AREG IoT SDK whitepaper](https://github.com/aregtech/aregtech/blob/main/docs/areg-sdk-distributed-services-whitepaper.pdf), which focuses on IoT edge-centric and distributed solutions for embedded applications, prepared for the [embedded world Exhibition&Conference](https://www.embedded-world.de/) global platform for the embedded community. I am confident that the AREG SDK will be a valuable solution for developers and businesses.
 
-I welcome **C/C++ developers** to join in further development of the [AREG engine](https://github.com/aregtech/areg-sdk). I also invite **C# developers** to contribute to the cross-platform [AREG SDK GUI tool](https://github.com/aregtech/areg-sdk-tools) development.
+I welcome **C/C++ developers** to join in further development of the [AREG engine](https://github.com/aregtech/areg-sdk). I also invite **Qt / UI developers** to contribute to the cross-platform [AREG SDK GUI tool](https://github.com/aregtech/areg-sdk-tools) development. It is an interesting tool to help to design Service Interface, analyze logs from multiple processes and much more.
 
 AREG SDK is a project that I have poured my heart into. Try it out and please leave a rating ⭐
 
