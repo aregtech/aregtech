@@ -39,7 +39,7 @@ Areg is for projects that want raw performance without the complexity.
 - Use Areg to accelerate and simplify your next distributed system
 
 Try the [Areg SDK](https://github.com/aregtech/areg-sdk) and drop a ⭐ to help the project grow.  
-If you need consulting, training, architecture review, or integration support, reach out on GitHub or email *info/[at]areg.tech*.
+If you need consulting, training, architecture review, or integration support, reach out on GitHub or email *info\[at]areg.tech*.
 
 ---
 
