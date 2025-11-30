@@ -1,45 +1,32 @@
-### Welcome 👋
+### Hi and welcome 👋
 
-**Distributed C++ systems are notoriously hard. [Areg SDK](https://github.com/aregtech/areg-sdk) makes them simple.**  
-I build the high-performance open-source framework that removes the boilerplate and pain from multi-threaded, multi-process, and multi-node communication.
+I build **high-performance C++ frameworks that simplify distributed, multi-threaded, and multi-process systems**.  
+**Focus:** embedded systems, robotics, real-time and IoT-edge solutions.
 
-I work primarily in C/C++ and focus on distributed architectures, embedded systems, robotics, and real-time edge solutions.  
-
----
-
-## Why Areg Matters
-
-Most applications today need concurrency, resilience, and distribution. Traditional IPC, queues, and orchestration quickly turn into a mess. Areg SDK fixes this with a minimal, fast, and deterministic service model built for real systems:
-
-- Runs from tiny embedded setups to full distributed networks  
-- Replaces complex IPC with clean, generated Service Interfaces  
-- Guarantees predictable, message-driven behavior  
-- Fits embedded, desktop, and edge-to-cloud applications  
-- Enables rapid scaling without rewriting architecture
-
-Areg is for projects that want raw performance without the complexity.
+**Key projects:**
+- **[Areg SDK](https://github.com/aregtech/areg-sdk):** automates threads, IPC, and communication with a **high-speed, self-managed service mesh**  
+- **[Lusan GUI](https://github.com/aregtech/areg-sdk-tools):** visual toolkit to design, test, and debug Areg systems  
 
 ---
 
-## How Areg Works
+## Why Areg Exists
 
-- Clean abstraction with Service Providers and Service Consumers  
-- Generated APIs for requests, responses, and service data  
-- High-speed, low-overhead messaging with CRC-based addressing for instant routing  
-- Lusan GUI tool for visual design, testing, and multi-process logging  
-- Fully free and open-source, and ready for integration into any C++ project
+Many C++ projects fail not on algorithms, they fail on threads, IPC, and fragile wiring. Areg solves this:
+- **Auto-managed concurrency & messaging** – threads, services, and routing handled automatically  
+- **Unified async API** – RPC, Pub/Sub, and service discovery behave consistently across threads, processes, devices  
+- **Resilient & observable** – dynamic restarts, logging, and monitoring built-in
+
+💡 **Result:** build distributed and multithreading apps on embedded and IoT-edge systems faster, safer, and simpler.  
 
 ---
 
-## What You Can Do
+## Engage & Explore
 
-- Contribute to the Areg engine  
-- Extend the [Lusan GUI toolkit](https://github.com/aregtech/areg-sdk-tools)  
-- Explore the [Areg IoT SDK whitepaper](https://github.com/aregtech/aregtech/blob/main/docs/areg-sdk-distributed-services-whitepaper.pdf), presented at Embedded World  
-- Use Areg to accelerate and simplify your next distributed system
-
-Try the [Areg SDK](https://github.com/aregtech/areg-sdk) and drop a ⭐ to help the project grow.  
-If you need consulting, training, architecture review, or integration support, reach out on GitHub or email *info\[at]areg.tech*.
+- ⭐ **[Star Areg SDK](https://github.com/aregtech/areg-sdk)** to help grow the community  
+- Contribute to the **[engine](https://github.com/aregtech/areg-sdk)** or **[Toolking](https://github.com/aregtech/areg-sdk-tools)** applications  
+- Read & share the **[IoT SDK whitepaper](https://github.com/aregtech/aregtech/blob/main/docs/areg-sdk-distributed-services-whitepaper.pdf)**  
+- Contact me if your project uses Areg, I showcase early adopters!  
+- Suggest features or submit pull requests via GitHub  
 
 ---
 
