@@ -14,7 +14,8 @@ I build **high-performance C++ frameworks that simplify distributed, multi-threa
 Many C++ projects fail not on algorithms, they fail on threads, IPC, and fragile wiring. Areg solves this:
 - **Auto-managed concurrency & messaging** – threads, services, and routing handled automatically  
 - **Unified async API** – RPC, Pub/Sub, and service discovery behave consistently across threads, processes, devices  
-- **Resilient & observable** – dynamic restarts, logging, and monitoring built-in  
+- **Resilient & observable** – dynamic restarts, logging, and monitoring built-in
+
 💡 **Result:** build distributed and multithreading applications on embedded and IoT-edge systems faster, safer, and simpler.  
 
 ---
