@@ -16,7 +16,7 @@ Many C++ projects fail not on algorithms, they fail on threads, IPC, and fragile
 - **Unified async API** – RPC, Pub/Sub, and service discovery behave consistently across threads, processes, devices  
 - **Resilient & observable** – dynamic restarts, logging, and monitoring built-in
 
-💡 **Result:** build distributed and multithreading applications on embedded and IoT-edge systems faster, safer, and simpler.  
+💡 **Result:** build distributed and multithreading apps on embedded and IoT-edge systems faster, safer, and simpler.  
 
 ---
 
